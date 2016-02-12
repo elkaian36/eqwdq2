@@ -15,4 +15,4 @@ MAX_TEMP=70
 #--max-diff=N
 #-P means verbose protocol-level output
 
-./cpuminer-multi/cpuminer --algo=${ALGORYTHM} --url=${MINING_URL} --user=${USERNAME} --pass=${PASSWORD} --max-temp=${MAX_TEMP} -P
+./cpuminer-multi/cpuminer --algo=${ALGORYTHM} --url=${MINING_URL} --user=${USERNAME} --pass=${PASSWORD} --max-temp=${MAX_TEMP}

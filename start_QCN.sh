@@ -4,7 +4,7 @@
 ALGORYTHM="cryptonight"
 #(QCN, monero, fantomcoin, bytecoin, etc.)
 MINING_URL="stratum+tcp://qcn.pool.minergate.com:45570"
-USERNAME="766bf2a1@opayq.com"
+USERNAME="elkaian0@gmail.com"
 PASSWORD="x"
 #--background or -B = run in background
 #--benchmark
